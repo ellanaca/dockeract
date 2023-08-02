@@ -1,5 +1,5 @@
 import unittest
-from Model import IrisModel, IrisSpecies
+from model import IrisModel, IrisSpecies
 
 
 class TestIrisModel(unittest.TestCase):
