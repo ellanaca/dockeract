@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 import os
 import pickle
 import pandas as pd
-from Model import IrisModel, IrisSpecies
+from model import IrisModel, IrisSpecies
 
 # 2. Create the app object
 app = FastAPI()
